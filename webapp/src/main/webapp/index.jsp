@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Igi is boss! </h1>
+   <h1> Igi is boss! CS2 legend! </h1>
 
   
 </form>
